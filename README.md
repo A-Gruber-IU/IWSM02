@@ -1,3 +1,3 @@
 Dieser Repo ist Teil eines Studienprojekts im Bereich IT-Service Management.
 
-![diagram](https://github.com/user-attachments/assets/d3d848ea-7b6c-4c5d-8609-d4f84551da97)
+![diagram](https://github.com/user-attachments/assets/360ccba8-a90f-4db6-bb47-f42359ec7f93)
