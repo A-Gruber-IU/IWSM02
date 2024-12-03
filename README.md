@@ -6,5 +6,5 @@ Prozess als BPMN-Modell
 <br>
 Störungslebenszyklus als Zustandsdiagramm
 <br>
-![Störunslebenszyklus](Störungslebenszyklus.png)
+
 
